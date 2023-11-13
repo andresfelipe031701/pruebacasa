@@ -1,0 +1,14 @@
+C:\Users\A Felipe Preciado\Downloads\Practicabck\bin\Debug\net7.0\Practicabck.exe
+C:\Users\A Felipe Preciado\Downloads\Practicabck\bin\Debug\net7.0\Practicabck.deps.json
+C:\Users\A Felipe Preciado\Downloads\Practicabck\bin\Debug\net7.0\Practicabck.runtimeconfig.json
+C:\Users\A Felipe Preciado\Downloads\Practicabck\bin\Debug\net7.0\Practicabck.dll
+C:\Users\A Felipe Preciado\Downloads\Practicabck\bin\Debug\net7.0\Practicabck.pdb
+C:\Users\A Felipe Preciado\Downloads\Practicabck\obj\Debug\net7.0\Practicabck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A Felipe Preciado\Downloads\Practicabck\obj\Debug\net7.0\Practicabck.AssemblyInfoInputs.cache
+C:\Users\A Felipe Preciado\Downloads\Practicabck\obj\Debug\net7.0\Practicabck.AssemblyInfo.cs
+C:\Users\A Felipe Preciado\Downloads\Practicabck\obj\Debug\net7.0\Practicabck.csproj.CoreCompileInputs.cache
+C:\Users\A Felipe Preciado\Downloads\Practicabck\obj\Debug\net7.0\Practicabck.dll
+C:\Users\A Felipe Preciado\Downloads\Practicabck\obj\Debug\net7.0\refint\Practicabck.dll
+C:\Users\A Felipe Preciado\Downloads\Practicabck\obj\Debug\net7.0\Practicabck.pdb
+C:\Users\A Felipe Preciado\Downloads\Practicabck\obj\Debug\net7.0\Practicabck.genruntimeconfig.cache
+C:\Users\A Felipe Preciado\Downloads\Practicabck\obj\Debug\net7.0\ref\Practicabck.dll
